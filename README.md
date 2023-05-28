@@ -14,7 +14,7 @@ XAI/MLI solution for Kaggle use case using Python.
 # Dataset snapshot
  <img width="562" alt="image" src="https://github.com/netgvarun2012/XAI/assets/93938450/2212ff40-9097-4075-8fa0-27563519d004">
 
-Original data collected from (Kickstarter Platform)[https://www.kickstarter.com/]
+Original data collected from [Kickstarter Platform](https://www.kickstarter.com/)
 
 Explainable AI methods used are:
 
